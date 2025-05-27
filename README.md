@@ -38,17 +38,4 @@ Tổng cộng 15 file WAV (đã chuyển đổi từ MIDI):
 - Nhạc điện tử trải rộng phổ hơn, có năng lượng ở cả vùng tần số cao (trên 2000 Hz).
 - Có thể sử dụng phổ trung bình như đặc trưng để phân loại thể loại nhạc.
 
-## Hướng dẫn chạy code
 
-1. Cài đặt thư viện:
-```bash
-pip install numpy matplotlib soundfile
-```
-
-2. Đặt các file WAV vào cùng một thư mục và cập nhật đường dẫn trong script.
-
-3. Chạy script Python để tạo biểu đồ so sánh.
-
-## Tác giả
-
-Báo cáo và phân tích bởi ChatGPT & người dùng
